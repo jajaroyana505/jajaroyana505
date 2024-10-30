@@ -1,1 +1,2 @@
+# Ignore dist & converage folders
 node_modules/
